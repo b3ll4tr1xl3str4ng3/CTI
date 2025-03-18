@@ -19,6 +19,8 @@ A list of secure and anonymous email providers operating on the dark web.
 ### 5. Search Engines
 Dark web search engines to help you find hidden services or specific information.
 
+### 6. Telegram Channel
+
 ## Disclaimer
 
 The content provided in this repository is for educational and research purposes only. Accessing some of these services may be illegal in certain jurisdictions. Use this information responsibly, and be aware of your local laws.
