@@ -24,6 +24,6 @@
 | FOG | xql562evsy7njcsngacphc2erzjfecwotdkobn3m4uxu2gtqh26newid.onion | ACTIVE |
 | GD LockerSec | igziys7pres4644kbrtakxfbrwkyld64nxk5prpkgtcexwrrjgtfjzyd | ACTIVE |
 | HANDALA | vmjfieomxhnfjba57sd6jjws2ogvowjgxhhfglsikqvvrnrajbmpxqqd.onion | ACTIVE |
-| HellCat | hellcakbszllztlyqbjzwcbdhfrodx55wq77kmftp4bhnhsnn5r3odad.onion hellcat.rw (clearnet) | ACTIVE | 
+| HellCat | hellcakbszllztlyqbjzwcbdhfrodx55wq77kmftp4bhnhsnn5r3odad.onion    hellcat.rw (clearnet) | ACTIVE | 
 
 
