@@ -33,8 +33,7 @@
 | Kraken | krakenccj3wr23452a4ibkbkuph4d6soyx2xgjoogtuamc3m7u7wemad.onion | ACTIVE |
 | LEAKEDDATA | business-data-leaks.com (clearnet)<br>ep6pheij.com (clearnet) | ACTIVE |
 | Linkc | iywqjjaf2zioehzzauys3sktbcdmuzm2fsjkqsblnm7dt6axjfpoxwid.onion | ACTIVE |
-| LockBit 3.0 | <br>
-lockbit3753ekiocyo5epmpy6klmejchjtzddoekjlnt6mu3qh4de2id.onion<br>
+| LockBit 3.0 | lockbit3753ekiocyo5epmpy6klmejchjtzddoekjlnt6mu3qh4de2id.onion<br>
 lockbit3g3ohd3katajf6zaehxz4h4cnhmz5t735zpltywhwpc6oy3id.onion<br>
 lockbit3olp7oetlc4tl5zydnoluphh7fvdt5oa6arcp2757r7xkutid.onion<br>
 lockbit435xk3ki62yun7z5nhwz6jyjdp2c64j5vge536if2eny3gtid.onion<br>
