@@ -1,5 +1,5 @@
 
-# Resource
+# Resource 
 
 | Resource Name       | Description                              | Status |
 |-----------------------------|------------------------------------------|-------|
@@ -12,3 +12,5 @@
 | [Medusa](https://t.me/+yXOcSjVjI9tjM2E0) | RansomGang | ACTIVE |
 | [RansomHouse](https://t.me/Rhouse_News) | RansomGang | ACTIVE |
 | [Stormous](https://t.me/STORMOUS_HACKER) | RansomGang | ACTIVE  | 
+| [Underground dataleak](https://t.me/UndergroundDataLeaks) | Data Leak | ACTIVE |
+| [Underground news](https://t.me/UndergroundLeaksNews) | Leaks News | ACTIVE |
