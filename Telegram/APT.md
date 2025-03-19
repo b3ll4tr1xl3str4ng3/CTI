@@ -11,3 +11,4 @@
 | [KillSec](https://t.me/killsecc) | RansomGang | ACTIVE |
 | [Medusa](https://t.me/+yXOcSjVjI9tjM2E0) | RansomGang | ACTIVE |
 | [RansomHouse](https://t.me/Rhouse_News) | RansomGang | ACTIVE |
+| [Stormous](https://t.me/STORMOUS_HACKER) | RansomGang | ACTIVE  | 
