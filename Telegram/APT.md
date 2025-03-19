@@ -9,4 +9,5 @@
 | [Flocker](https://t.me/FSOCIETYWETRUST) | RansomGang | ACTIVE |
 | [HANDALA LEAK](https://t.me/Handala_Leak)<br>[HANDALA CHANNEL](https://t.me/Handala_Channel)<br>[HANDALA BACKUP](https://t.me/Handala_Backup)<br>[HANDALA HACK](https://t.me/Handala_hack) | RansomGang | ACTIVE | 
 | [KILLSEC](https://t.me/killsecc) | RansomGang | ACTIVE |
+| [MEDUSA](https://t.me/+yXOcSjVjI9tjM2E0) | RansomGang | ACTIVE |
 
