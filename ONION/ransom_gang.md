@@ -59,6 +59,15 @@
 |Sarcoma|54yjkjwjqbm74nchm6o6b4l775ws2hgesdopus5jvo3jx6ftj7zn7mid.onion<br>55lfxollcks2pvxbtg73vrpl3i7x4jnnrxfl6al6viamwngqlu4cxgyd.onion<br>6nwhpuwtf4onxvr7el5ycc4xwefhk4w6q6rbn23oe2ghax2x7nns3iad.onion<br>bi32pq7y3gqq3qacgvamnk2s2elnppvevqp325wtk2wo7vh2zavjcfid.onion<br>icmghe66zl4twvbv5g4h532mogcea44hrkxtotrlx6aia5jslnnbnxad.onion<br>iiobxrljnmjwb6l66bfvhin5zxbghbgiv6yamqpb4bezlrxd2vhetgyd.onion<br>lpp4aze237qkkursbtesd54ofag6te5i5lzpee5a3buhq4v3uwtxnlqd.onion<br>lyz3i74psw6vkuxdjhkyxzy3226775qpzs6oage4zw6qj66ppdxma2qd.onion<br>modre6n4hqm4seip2thhbjcfkcdcljhec7ekvd5qt7m7fhimpc2446qd.onion<br>nf5b6a4b4s623wfxkveibjmwwpqjm536t5tyrbtrw7vsdqepsdoejoad.onion<br>ngvvafvhfgwknj63ivqjqdxc7b5fyedo67zshblipo5a2zuair5t4nid.onion<br>pauppf2nuoqxwwqqshaehbkj54debl7bppacfm5h6z6zjoiejifezhad.onion<br>r3yes535gjsi2puoz2bvssl3ewygcfgwoji6wdk3grj3baexn2hha2id.onion<br>rs3icoalw6bdgedspnmt6vp2dzzuyqxtccezmta2g5mlyao64len7dyd.onion<br>sarcomawmawlhov7o5mdhz4eszxxlkyaoiyiy2b5iwxnds2dmb4jakad.onion|ACTIVE|
 | SECP0 | secponewsxgrlnirowclps2kllzaotaf5w2bsvktdnz4qhjr2jnwvvyd.onion<br>secp0-news.net(clearnet) | ACTIVE | 
 | SKIRA TEAM | mtgc3qvyedjnfu7cen2zsupdppi5ys5g2hm6xwujvoepw25p4dy6huid.onion | ACTIVE |
-| Space Bears | 5butbkrljkaorg5maepuca25oma7eiwo6a2rlhvkblb4v6mf3ki2ovid.onion | ACTIVE
+| Space Bears | 5butbkrljkaorg5maepuca25oma7eiwo6a2rlhvkblb4v6mf3ki2ovid.onion | ACTIVE |
+|STORMOUS|3slz4povugieoi3tw7sblxoowxhbzxeju427cffsst5fo2tizepwatid.onion<br>h3reihqb2y7woqdary2g3bmk3apgtxuyhx4j2ftovbhe3l5svev7bdyd.onion<br>pdcizqzjitsgfcgqeyhuee5u6uki6zy5slzioinlhx6xjnsw25irdgqd.onion<br>stmxylixiz4atpmkspvhkym4xccjvpcv3v67uh3dze7xwwhtnz4faxid.onion | ACTIVE |
+| Termite | termiteuslbumdge2zmfmfcsrvmvsfe4gvyudc5j6cdnisnhtftvokid.onion | ACTIVE |
+| ThreeAM | threeamkelxicjsaf2czjyz2lc4q3ngqkxhhlexyfcp2o6raw4rphyad.onion | ACTIVE |
+| TrinityLock | txtggyng5euqkyzl2knbejwpm4rlq575jn2egqldu27osbqytrj6ruyd.onion<br>trinitylock.io (clearnet) | ACTIVE |
+| Underground | 47glxkuxyayqrvugfumgsblrdagvrah7gttfscgzn56eyss5wg3uvmqd.onion<br>ehehqyhw3iev2vfso4vqs7kcrzltfebe5vbimq62p2ja7pslczs3q6qd.onion/auth/login(communication page)<br>undgrddapc4reaunnrdrmnagvdelqfvmgycuvilgwb5uxm25sxawaoqd.onion | ACTIVE |
+| VanHelsing | vanhelvuuo4k3xsiq626zkqvp6kobc2abry5wowxqysibmqs5yjh4uqd.onion<br>vanhelxjo52qr2ixcmtjayqqrcodkuh36n7uq7q7xj23ggotyr3y72yd.onion<br>vanhelqmjstkvlhrjwzgjzpq422iku6wlggiz5y5r3rmfdeiaj3ljaid.onion (communication page)<br>vanhelsokskrlaacilyfmtuqqa5haikubsjaokw47f3pt3uoivh6cgad.onion (communication page) | ACTIVE |
+| Weyhro | xtxtpqpyaaek4p4525ksepyyy75gfvi47fptm2gftw7cn656rnfhzdqd.onion | ACTIVE |
+| WikiLeaksV2 | wikileaksv2.com (clearnet) | ACTIVE |
+
 
 
