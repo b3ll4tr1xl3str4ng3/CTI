@@ -16,3 +16,8 @@
 | Cl0p | santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion toznnag5o3ambca56s2yacteu7q7x2avrfherzmz4nmujrjuib4iusad.onion| ACTIVE |
 | Cloak | cloak7jpvcb73rtx2ff7kaw2kholu7bdiivxpzbhlny4ybz75dpxckqd.onion | ACTIVE |
 | Crazyhunter | 7i6sfmfvmqfaabjksckwrttu3nsbopl3xev2vbxbkghsivs5lqp4yeqd.onion | ACTIVE |
+| DAIXIN | 232fwh5cea3ub6qguz3pynijxfzl2uj3c73nbrayipf3gq25vtq2r4qd.onion 7ukmkdtyxdkdivtjad57klqnd3kdsmq6tp45rrsxqnu76zzv3jvitlqd.onion | ACTIVE |
+| DragonForce | z3wqggtxft7id3ibr7srivv5gjof5fwg76slewnzwwakjuf3nlhukdid.onion | ACTIVE |
+| Dunghill Leak | nsalewdnfclsowcal6kn5csm4ryqmfpijznxwictukhrgvz2vbmjjjyd.onion p66slxmtum2ox4jpayco6ai3qfehd5urgrs4oximjzklxcol264driqd.onion | ACTIVE | 
+
+
