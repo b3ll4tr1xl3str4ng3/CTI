@@ -53,6 +53,8 @@
 | RansomExx2 | rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion | ACTIVE |
 | RansomHouse | zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion | ACTIVE |
 |RansomHub|an2ce4pqpf2ipvba2djurxi5pnxxhu3uo7ackul6eafcundqtly7bhid.onion<br>fpwwt67hm3mkt6hdavkfyqi42oo3vkaggvjj4kxdr2ivsbzyka5yr2qd.onion<br>mjmru3yz65o5szsp4rmkmh4adlezcpy5tqjjc4y5z6lozk3nnz2da2ad.onion<br>ransomxifxwc5eteopdobynonjctkxxvap77yqifu2emfbecgbqdw6qd.onion | ACTIVE |
+| Rhysida | rhysidafohrhyy2aszi7bm32tnjat5xri65fopcxkdfxhi4tidsg7cad.onion<br>rhysidafc6lm7qa2mkiukbezh7zuth3i4wof4mh2audkymscjm6yegad.onion | ACTIVE |
+| Run Some Wares | nidzkoszg57upoq7wcalm2xxeh4i6uumh36axsnqnj3i7lep5uhkehyd.onion<br>oow7rehrxlzpy6vh3hezl2khstkpa6s7wx3iit74tr6xbjibupld5iad.onion<br>rnsmwareartse3m4hjsumjf222pnka6gad26cqxqmbjvevhbnym5p6ad.onion | ACTIVE |
 
 
 
