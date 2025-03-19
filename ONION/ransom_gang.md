@@ -19,5 +19,6 @@
 | DAIXIN | 232fwh5cea3ub6qguz3pynijxfzl2uj3c73nbrayipf3gq25vtq2r4qd.onion 7ukmkdtyxdkdivtjad57klqnd3kdsmq6tp45rrsxqnu76zzv3jvitlqd.onion | ACTIVE |
 | DragonForce | z3wqggtxft7id3ibr7srivv5gjof5fwg76slewnzwwakjuf3nlhukdid.onion | ACTIVE |
 | Dunghill Leak | nsalewdnfclsowcal6kn5csm4ryqmfpijznxwictukhrgvz2vbmjjjyd.onion p66slxmtum2ox4jpayco6ai3qfehd5urgrs4oximjzklxcol264driqd.onion | ACTIVE | 
+| EMBARGO | embargobe3n5okxyzqphpmk3moinoap2snz5k6765mvtkk7hhi544jid.onion | ACTIVE |
 
 
