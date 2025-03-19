@@ -7,7 +7,7 @@ This repository provides a curated collection of Onion links for various categor
 ### 1. Marketplaces
 Links to popular and trusted dark web marketplaces for goods and services.
 
-### 2. Ransomware Data Leak Pages
+### 2. [Ransomware Data Leak Pages](https://github.com/b3ll4tr1xl3str4ng3/CTI/blob/main/ONION/ransom_gang.md)
 A collection of pages where ransomware groups publish stolen data or threaten data leaks.
 
 ### 3. Services
@@ -19,7 +19,7 @@ A list of secure and anonymous email providers operating on the dark web.
 ### 5. Search Engines
 Dark web search engines to help you find hidden services or specific information.
 
-### 6. Telegram Channel
+### 6. [Telegram Channel](https://github.com/b3ll4tr1xl3str4ng3/CTI/tree/main/Telegram)
 
 ## Disclaimer
 
