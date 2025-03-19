@@ -44,6 +44,15 @@
 | Morpheus | izsp6ipui4ctgxfugbgtu65kzefrucltyfpbxplmfybl5swiadpljmyd.onion | ACTIVE |
 | NightSpire | nspireyzmvapgiwgtuoznlafqvlyz7ey6himtgn5bdvdcowfyto3yryd.onion | ACTIVE |
 | Nitrogen | nitrogenczslprh3xyw6lh5xyjvmsz7ciljoqxxknd7uymkfetfhgvqd.onion | ACTIVE |
+| Orca | orca66hwnpciepupe5626k2ib6dds6zizjwuuashz67usjps2wehz4id.onion | ACTIVE |
+| OX Thief | oxthiefsvzp3qifmkrpwcllwscyu7jvmdxmd2coz2rxpem6ohut6x5qd.onion | ACTIVE |
+| Play | k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion | ACTIVE |
+| PlayBoy Locker | vlofmq2u3f5amxmnblvxaghy73aedwta74fyceywr6eeguw3cn6h6uad.onion | ACTIVE |
+| Qilin | kbsqoivihgdmwczmxkbovk7ss2dcynitwhhfu5yw725dboqo5kthfaad.onion | ACTIVE |
+| RansomCortex | gg6owuhu72muoelkt2msjrp2llwr2on5634sk5v2xefzmobvryywbhid.onion | ACTIVE |
+| RansomExx2 | rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion | ACTIVE |
+| RansomHouse | zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion | ACTIVE |
+|RansomHub|an2ce4pqpf2ipvba2djurxi5pnxxhu3uo7ackul6eafcundqtly7bhid.onion<br>fpwwt67hm3mkt6hdavkfyqi42oo3vkaggvjj4kxdr2ivsbzyka5yr2qd.onion<br>mjmru3yz65o5szsp4rmkmh4adlezcpy5tqjjc4y5z6lozk3nnz2da2ad.onion<br>ransomxifxwc5eteopdobynonjctkxxvap77yqifu2emfbecgbqdw6qd.onion | ACTIVE |
 
 
 
