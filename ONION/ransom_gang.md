@@ -22,5 +22,8 @@
 | EMBARGO | embargobe3n5okxyzqphpmk3moinoap2snz5k6765mvtkk7hhi544jid.onion | ACTIVE |
 | Flocker | flock4cvoeqm4c62gyohvmncx6ck2e7ugvyqgyxqtrumklhd5ptwzpqd.onion | ACTIVE |
 | FOG | xql562evsy7njcsngacphc2erzjfecwotdkobn3m4uxu2gtqh26newid.onion | ACTIVE |
+| GD LockerSec | igziys7pres4644kbrtakxfbrwkyld64nxk5prpkgtcexwrrjgtfjzyd | ACTIVE |
+| HANDALA | vmjfieomxhnfjba57sd6jjws2ogvowjgxhhfglsikqvvrnrajbmpxqqd.onion | ACTIVE |
+| HellCat | hellcakbszllztlyqbjzwcbdhfrodx55wq77kmftp4bhnhsnn5r3odad.onion hellcat.rw (clearnet) | ACTIVE | 
 
 
