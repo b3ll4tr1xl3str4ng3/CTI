@@ -14,4 +14,4 @@
 | [Stormous](https://t.me/STORMOUS_HACKER) | RansomGang | ACTIVE  | 
 | [Underground dataleak](https://t.me/UndergroundDataLeaks) | Data Leak | ACTIVE |
 | [Underground news](https://t.me/UndergroundLeaksNews) | Leaks News | ACTIVE |
-| [Noname057 Official](https://t.co/hdY4qhDPAk) <br>[NoName057 ITA](https://t.co/mXRNipX4P9) <br><[NoName057 ENG](https://t.co/mXRNipX4P9) | DDoS Group | ACTIVE 
+| [Noname057 Official](https://t.co/hdY4qhDPAk) <br>[NoName057 ITA](https://t.co/mXRNipX4P9) <br>[NoName057 ENG](https://t.co/mXRNipX4P9) | DDoS Group | ACTIVE 
