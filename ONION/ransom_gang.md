@@ -26,5 +26,10 @@
 | HANDALA | vmjfieomxhnfjba57sd6jjws2ogvowjgxhhfglsikqvvrnrajbmpxqqd.onion<br>handala-hack.to (clearnet)<br>handala.to (clearnet)<br>handala.cx (clearnet)<br>| ACTIVE |
 | HellCat | hellcakbszllztlyqbjzwcbdhfrodx55wq77kmftp4bhnhsnn5r3odad.onion<br>hellcat.rw (clearnet) | ACTIVE | 
 | Hunters International | hunters55atbdusuladzv7vzv6a423bkh6ksl2uftwrxyuarbzlfh7yd.onion<br>hunters55rdxciehoqzwv7vgyv6nt37tbwax2reroyzxhou7my5ejyid<br>hunters33dootzzwybhxyh6xnmumopeoza6u4hkontdqu7awnhmix7ad.onion/login (communication page)<br>hunters33mmcwww7ek7q5ndahul6nmzmrsumfs6aenicbqon6mxfiqyd.onion/login (communication page) | ACTIVE |
+| INC Ransom | incblog7vmuq7rktic73r4ha4j757m3ptym37tyvifzp2roedyyzzxid.onion<br>incapt.su (clearnet)<br>incapt.blog(clearnet) | ACTIVE |
+| INTERLOCK | ebhmkoohccl45qesdbvrjqtyro2hmhkmh6vkyfyjjzfllm3ix72aqaid.onion<br>ebhmkoohccl45qesdbvrjqtyro2hmhkmh6vkyfyjjzfllm3ix72aqaid.onion (communication page) | ACTIVE |
+| Kairos | nerqnacjmdy3obvevyol7qhazkwkv57dwqvye5v46k5bcujtfa6sduad.onion | ACTIVE |
+| KillSec | ks5424y3wpr5zlug5c7i6svvxweinhbdcqcfnptkfcutrncfazzgz5id.onion | ACTIVE |
+
 
 
