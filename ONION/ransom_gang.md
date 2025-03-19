@@ -25,5 +25,6 @@
 | GD LockerSec | igziys7pres4644kbrtakxfbrwkyld64nxk5prpkgtcexwrrjgtfjzyd | ACTIVE |
 | HANDALA | vmjfieomxhnfjba57sd6jjws2ogvowjgxhhfglsikqvvrnrajbmpxqqd.onion<br>handala-hack.to (clearnet)<br>handala.to (clearnet)<br>handala.cx (clearnet)<br>| ACTIVE |
 | HellCat | hellcakbszllztlyqbjzwcbdhfrodx55wq77kmftp4bhnhsnn5r3odad.onion<br>hellcat.rw (clearnet) | ACTIVE | 
+| Hunters International | hunters55atbdusuladzv7vzv6a423bkh6ksl2uftwrxyuarbzlfh7yd.onion<br>hunters55rdxciehoqzwv7vgyv6nt37tbwax2reroyzxhou7my5ejyid<br>hunters33dootzzwybhxyh6xnmumopeoza6u4hkontdqu7awnhmix7ad.onion/login (communication page)<br>hunters33mmcwww7ek7q5ndahul6nmzmrsumfs6aenicbqon6mxfiqyd.onion/login (communication page) | ACTIVE |
 
 
