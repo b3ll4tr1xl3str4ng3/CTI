@@ -23,7 +23,7 @@
 | Flocker | flock4cvoeqm4c62gyohvmncx6ck2e7ugvyqgyxqtrumklhd5ptwzpqd.onion | ACTIVE |
 | FOG | xql562evsy7njcsngacphc2erzjfecwotdkobn3m4uxu2gtqh26newid.onion | ACTIVE |
 | GD LockerSec | igziys7pres4644kbrtakxfbrwkyld64nxk5prpkgtcexwrrjgtfjzyd | ACTIVE |
-| HANDALA | vmjfieomxhnfjba57sd6jjws2ogvowjgxhhfglsikqvvrnrajbmpxqqd.onion | ACTIVE |
+| HANDALA | vmjfieomxhnfjba57sd6jjws2ogvowjgxhhfglsikqvvrnrajbmpxqqd.onion<br>handala-hack.to<br>handala.to<br>handala.cx<br>| ACTIVE |
 | HellCat | hellcakbszllztlyqbjzwcbdhfrodx55wq77kmftp4bhnhsnn5r3odad.onion<br>hellcat.rw (clearnet) | ACTIVE | 
 
 
