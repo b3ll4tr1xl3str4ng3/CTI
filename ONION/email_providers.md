@@ -1,7 +1,7 @@
 
 | Resource Name         | Link                              | Status |
 |-----------------------|-----------------------------------|--------|
-| Cock.li (NSFW)        | rurcblzhmdk22kttfkel2zduhyu3r6to7knyc7wiorzrx5gw4c3lftad.onion<br>cock.li | ACTIVE |
+| Cock.li       | rurcblzhmdk22kttfkel2zduhyu3r6to7knyc7wiorzrx5gw4c3lftad.onion<br>cock.li | ACTIVE |
 | Dainwin1210.de        | danielas3rtn54uwmofdo3x2bsdifr47huasnmbgqzfrec5ubupvtpid.onion<br>dainwin1210.de | ACTIVE |
 | Dozaru Onion Mail Server | eot3almpracnkz7gz3r5yr3qaymngqsrmvbica2shw5zuc52az2gxoqd.onion | ACTIVE |
 | Hidden Mail Onion Server | 5nm4mdhzyfbif6i5qv3kh4i7j2trlbuvujsencsqn55opaa3d6qhfcqd.onion | ACTIVE |
