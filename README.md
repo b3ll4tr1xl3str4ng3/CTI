@@ -13,7 +13,7 @@ A collection of pages where ransomware groups publish stolen data or threaten da
 ### 3. Services
 Various services available on the dark web, including hosting, VPNs, or other anonymous services.
 
-### 4. Email Providers
+### 4. [Email Providers](https://github.com/b3ll4tr1xl3str4ng3/CTI/blob/main/ONION/email_providers.md)
 A list of secure and anonymous email providers operating on the dark web.
 
 ### 5. Search Engines
