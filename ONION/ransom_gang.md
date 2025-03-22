@@ -5,6 +5,7 @@
 | Abyss | 3ev4metjirohtdpshsqlkrqcmxq6zu3d7obrdhglpy5jpbr7whmlfgqd.onion | ACTIVE |
 | Akira | akiral2iz6a7qgd3ayp3l6yub7xx2uep76idk3u2kollpj5z3z636bad.onion akiralkzxzq2dsrzsrvbr2xgbbu2wgsmxryd4csgfameg52n7efvr2id.onion (communication page) | ACTIVE |
 | Alpha Locker | mydatae2d63il5oaxxangwnid5loq2qmtsol2ozr6vtb7yfm5ypzo6id.onion | ACTIVE |
+| ALPHV | alphvmmm27o3abo3r2mlmjrpdmzle3rykajqg5xsj56552as7abw4kudid.onion | ACTIVE | 
 | Arcus Media | arcuufpr5xxbbkin4mlidt7itmr6znlppk63jbtkeguuhszmc5g7qdyd.onion | ACTIVE | 
 | BianLian | bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad.onion | ACTIVE |
 | Black Basta | stniiomyjliimcgkvdszvgen3eaaoz55hreqqx6o77yvmpwt7gklffqd.onion aazsbsgya565vlu2c6bzy6yfiebkcbtvvcytvolt33s77xypi7nypxyd (communication page) bastad5huzwkepdixedg2gekg7jk22ato24zyllp6lnjx7wdtyctgvyd (communication page) | ACTIVE |
@@ -15,8 +16,10 @@
 | CiphBit | ciphbitqyg26jor7eeo6xieyq7reouctefrompp6ogvhqjba7uo4xdid.onion ciphbitekvxj27jmtw5sncirfrhxrh4cw4a5qw7ef6o4vqfy4habxbyd.onion | ACTIVE |
 | Cl0p | santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion toznnag5o3ambca56s2yacteu7q7x2avrfherzmz4nmujrjuib4iusad.onion| ACTIVE |
 | Cloak | cloak7jpvcb73rtx2ff7kaw2kholu7bdiivxpzbhlny4ybz75dpxckqd.onion | ACTIVE |
+| Conti | contixxx75o7vmu5vix2e4vwa56gtv4y3gor4l4c5vhdnmujq6kxmnid.onion | ACTIVE |
 | Crazyhunter | 7i6sfmfvmqfaabjksckwrttu3nsbopl3xev2vbxbkghsivs5lqp4yeqd.onion | ACTIVE |
 | DAIXIN | 232fwh5cea3ub6qguz3pynijxfzl2uj3c73nbrayipf3gq25vtq2r4qd.onion 7ukmkdtyxdkdivtjad57klqnd3kdsmq6tp45rrsxqnu76zzv3jvitlqd.onion | ACTIVE |
+| DarkSide | darksidexxx75o7vmu5vix2e4vwa56gtv4y3gor4l4c5vhdnmujq6kxmnid.onion | ACTIVE |
 | DragonForce | z3wqggtxft7id3ibr7srivv5gjof5fwg76slewnzwwakjuf3nlhukdid.onion | ACTIVE |
 | Dunghill Leak | nsalewdnfclsowcal6kn5csm4ryqmfpijznxwictukhrgvz2vbmjjjyd.onion p66slxmtum2ox4jpayco6ai3qfehd5urgrs4oximjzklxcol264driqd.onion | ACTIVE | 
 | EMBARGO | embargobe3n5okxyzqphpmk3moinoap2snz5k6765mvtkk7hhi544jid.onion | ACTIVE |
@@ -25,6 +28,7 @@
 | GD LockerSec | igziys7pres4644kbrtakxfbrwkyld64nxk5prpkgtcexwrrjgtfjzyd | ACTIVE |
 | HANDALA | vmjfieomxhnfjba57sd6jjws2ogvowjgxhhfglsikqvvrnrajbmpxqqd.onion<br>handala-hack.to (clearnet)<br>handala.to (clearnet)<br>handala.cx (clearnet)<br>| ACTIVE |
 | HellCat | hellcakbszllztlyqbjzwcbdhfrodx55wq77kmftp4bhnhsnn5r3odad.onion<br>hellcat.rw (clearnet) | ACTIVE | 
+| Hive | hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion | ACTIVE |
 | Hunters International | hunters55atbdusuladzv7vzv6a423bkh6ksl2uftwrxyuarbzlfh7yd.onion<br>hunters55rdxciehoqzwv7vgyv6nt37tbwax2reroyzxhou7my5ejyid<br>hunters33dootzzwybhxyh6xnmumopeoza6u4hkontdqu7awnhmix7ad.onion/login (communication page)<br>hunters33mmcwww7ek7q5ndahul6nmzmrsumfs6aenicbqon6mxfiqyd.onion/login (communication page) | ACTIVE |
 | INC Ransom | incblog7vmuq7rktic73r4ha4j757m3ptym37tyvifzp2roedyyzzxid.onion<br>incapt.su (clearnet)<br>incapt.blog(clearnet) | ACTIVE |
 | INTERLOCK | ebhmkoohccl45qesdbvrjqtyro2hmhkmh6vkyfyjjzfllm3ix72aqaid.onion<br>ebhmkoohccl45qesdbvrjqtyro2hmhkmh6vkyfyjjzfllm3ix72aqaid.onion (communication page) | ACTIVE |
