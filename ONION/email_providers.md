@@ -1,6 +1,6 @@
 | Resource Name            | Link                                      |
 |--------------------------|-------------------------------------------|
-| Cock.li (NSFW)           | rurcblzhmdk22kttfkel2zduhyu3r6to7knyc7wiorzrx5gw4c3lftad.onion |
+| Cock.li           | rurcblzhmdk22kttfkel2zduhyu3r6to7knyc7wiorzrx5gw4c3lftad.onion |
 | CounterMail              | countermail36mxsvmfda6pms7gihx5lz5ifwmvbz4mxdt5e3l3nphc47yd.onion |
 | CTemplar                 | ctemplar42u6fulx.onion                    |
 | Dainwin1210.de           | danielas3rtn54uwmofdo3x2bsdifr47huasnmbgqzfrec5ubupvtpid.onion |
