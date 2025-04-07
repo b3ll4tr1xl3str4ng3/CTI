@@ -7,6 +7,7 @@
 | Alpha Locker | mydatae2d63il5oaxxangwnid5loq2qmtsol2ozr6vtb7yfm5ypzo6id.onion | ACTIVE |
 | ALPHV | alphvmmm27o3abo3r2mlmjrpdmzle3rykajqg5xsj56552as7abw4kudid.onion | ACTIVE | 
 | Arcus Media | arcuufpr5xxbbkin4mlidt7itmr6znlppk63jbtkeguuhszmc5g7qdyd.onion | ACTIVE | 
+| BERT | bertblogsoqmm4ow7nqyh5ik7etsmefdbf25stauecytvwy7tkgizhad.onion | ACTIVE |
 | BianLian | bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad.onion | ACTIVE |
 | Black Basta | stniiomyjliimcgkvdszvgen3eaaoz55hreqqx6o77yvmpwt7gklffqd.onion aazsbsgya565vlu2c6bzy6yfiebkcbtvvcytvolt33s77xypi7nypxyd (communication page) bastad5huzwkepdixedg2gekg7jk22ato24zyllp6lnjx7wdtyctgvyd (communication page) | ACTIVE |
 | BlackSuit | weg7sdx54bevnvulapqu6bpzwztryeflq3s23tegbmnhkbpqz637f2yd.onion | ACTIVE |
