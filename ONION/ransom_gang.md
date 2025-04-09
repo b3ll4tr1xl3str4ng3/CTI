@@ -20,6 +20,7 @@
 | Cloak | cloak7jpvcb73rtx2ff7kaw2kholu7bdiivxpzbhlny4ybz75dpxckqd.onion | ACTIVE |
 | Conti | contixxx75o7vmu5vix2e4vwa56gtv4y3gor4l4c5vhdnmujq6kxmnid.onion | ACTIVE |
 | Crazyhunter | 7i6sfmfvmqfaabjksckwrttu3nsbopl3xev2vbxbkghsivs5lqp4yeqd.onion | ACTIVE |
+| Crypto24 | j5o5y2feotmhvr7cbcp2j2ewayv5mn5zenl3joqwx67gtfchhezjznad.onion | ACTIVE |
 | DAIXIN | 232fwh5cea3ub6qguz3pynijxfzl2uj3c73nbrayipf3gq25vtq2r4qd.onion 7ukmkdtyxdkdivtjad57klqnd3kdsmq6tp45rrsxqnu76zzv3jvitlqd.onion | ACTIVE |
 | DarkSide | darksidexxx75o7vmu5vix2e4vwa56gtv4y3gor4l4c5vhdnmujq6kxmnid.onion | ACTIVE |
 | Devman | qljmlmp4psnn3wqskkf3alqquatymo6hntficb4rhq5n76kuogcv7zyd.onion | ACTIVE |
