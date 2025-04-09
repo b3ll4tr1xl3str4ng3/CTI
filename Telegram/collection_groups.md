@@ -18,3 +18,4 @@
 | [Leaked and Breaches DBS](https://t.me/Leaked_BreachDBS) | Leaks | ACTIVE |
 | [Hack](https://t.me/hacking_group_channel) | Hacking | ACTIVE |
 | [SERVER KILLER](https://t.me/xServerKillers) | DDoS Group | ACTIVE |
+| [Stucx Team](https://t.me/xxstucxteam) | Hacking | ACTIVE |
